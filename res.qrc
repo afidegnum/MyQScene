@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/line.png</file>
+        <file>res/rectangle.png</file>
+        <file>res/clicker.png</file>
+    </qresource>
+</RCC>
